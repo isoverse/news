@@ -1,6 +1,6 @@
 # Isoverse
 
-Welcome to the isoverse News page. This is where we can discuss events, and you can opt in for notifications about isoverse-related [news](issues).
+Welcome to the isoverse News page. This is where we can discuss events, and you can opt in for notifications about isoverse-related [news](https://github.com/isoverse/news/issues).
 
 ## How to get isoverse news
 
